@@ -2,10 +2,11 @@ SSC0300 - Linguagens de Programação e Aplicações 2015
 Prof. Adenilso da Silva Simão                       
 Trabalho 2                              
 
-Árvores Binárias                                             
+Aplicações de Algorítimos de Árvores                                             
 
 Aluno 1: Pedro Eduardo Rodrigues Barazetti - Nº USP 9312582                           
-Aluno 2: France Sutil de Aguiar - Nº USP 9312814              
+Aluno 2: France Sutil de Aguiar - Nº USP 9312814                                                          
+Aluno 3: Matheus Campanini Mughrabi - Nº USP 9312835                                                        
 
 Local do Trabalho                     
 GitHub Username:PedroBarazetti                              
