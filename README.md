@@ -5,7 +5,8 @@ Trabalho 2
 Árvores Binárias                                             
 
 Aluno 1: Pedro Eduardo Rodrigues Barazetti - Nº USP 9312582                           
-Aluno 2: France Sutil de Aguiar - Nº USP 9312814              
+Aluno 2: France Sutil de Aguiar - Nº USP 9312814
+Aluno 3: Matheus Campanini Mughrabi - Nº USP 9312835                                                        
 
 Local do Trabalho                     
 GitHub Username:PedroBarazetti                              
