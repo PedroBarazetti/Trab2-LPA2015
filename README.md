@@ -1,4 +1,4 @@
-SSC0300 - Linguagens de Programação e Aplicações 2015
+SSC0300 - Linguagens de Programação e Aplicações 2015                                         
 Prof. Adenilso da Silva Simão                       
 Trabalho 2                              
 
